@@ -103,7 +103,7 @@ function errorResponse(errorMessage, awsRequestId) {
 }
 ```
 
-## The Lambda Function Test Function
+## The Lambda Test Function
 Here is the code used to test the Lambda function:
 
 ```json
